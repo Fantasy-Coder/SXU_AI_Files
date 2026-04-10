@@ -1,0 +1,6664 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?mso-application progid="Word.Document"?>
+<w:wordDocument xmlns:w="http://schemas.microsoft.com/office/word/2003/wordml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:sl="http://schemas.microsoft.com/schemaLibrary/2003/core" xmlns:aml="http://schemas.microsoft.com/aml/2001/core" xmlns:wx="http://schemas.microsoft.com/office/word/2003/auxHint" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882" xmlns:wsp="http://schemas.microsoft.com/office/word/2003/wordml/sp2" w:macrosPresent="no" w:embeddedObjPresent="no" w:ocxPresent="no" xml:space="preserve">
+	<w:ignoreElements w:val="http://schemas.microsoft.com/office/word/2003/wordml/sp2" />
+	<o:DocumentProperties>
+		<o:Title>期末测试（难）</o:Title>
+		<o:Author>pjb</o:Author>
+		<o:LastAuthor>pjb</o:LastAuthor>
+		<o:Revision>2</o:Revision>
+		<o:TotalTime>0</o:TotalTime>
+		<o:LastPrinted>2008-10-18T07:00:00Z</o:LastPrinted>
+		<o:Created>2014-12-12T08:44:00Z</o:Created>
+		<o:LastSaved>2014-12-12T08:44:00Z</o:LastSaved>
+		<o:Pages>1</o:Pages>
+		<o:Words>89</o:Words>
+		<o:Characters>510</o:Characters>
+		<o:Company>hnlgd</o:Company>
+		<o:Bytes>0</o:Bytes>
+		<o:Lines>4</o:Lines>
+		<o:Paragraphs>1</o:Paragraphs>
+		<o:CharactersWithSpaces>598</o:CharactersWithSpaces>
+		<o:Version>11.0000</o:Version>
+	</o:DocumentProperties>
+	<o:CustomDocumentProperties>
+		<o:KSOProductBuildVer dt:dt="string">2052-9.1.0.4879</o:KSOProductBuildVer>
+	</o:CustomDocumentProperties>
+	<w:fonts>
+		<w:defaultFonts w:ascii="Times New Roman" w:fareast="宋体" w:h-ansi="Times New Roman" w:cs="Times New Roman" />
+		<w:font w:name="宋体">
+			<w:altName w:val="SimSun" />
+			<w:panose-1 w:val="02010600030101010101" />
+			<w:charset w:val="86" />
+			<w:family w:val="Auto" />
+			<w:pitch w:val="variable" />
+			<w:sig w:usb-0="00000003" w:usb-1="080E0000" w:usb-2="00000010" w:usb-3="00000000" w:csb-0="00040001" w:csb-1="00000000" />
+		</w:font>
+		<w:font w:name="黑体">
+			<w:altName w:val="SimHei" />
+			<w:panose-1 w:val="02010600030101010101" />
+			<w:charset w:val="86" />
+			<w:family w:val="Auto" />
+			<w:pitch w:val="variable" />
+			<w:sig w:usb-0="00000001" w:usb-1="080E0000" w:usb-2="00000010" w:usb-3="00000000" w:csb-0="00040000" w:csb-1="00000000" />
+		</w:font>
+		<w:font w:name="方正舒体">
+			<w:panose-1 w:val="02010601030101010101" />
+			<w:charset w:val="86" />
+			<w:family w:val="Auto" />
+			<w:pitch w:val="variable" />
+			<w:sig w:usb-0="00000003" w:usb-1="080E0000" w:usb-2="00000010" w:usb-3="00000000" w:csb-0="00040000" w:csb-1="00000000" />
+		</w:font>
+		<w:font w:name="@黑体">
+			<w:panose-1 w:val="02010600030101010101" />
+			<w:charset w:val="86" />
+			<w:family w:val="Auto" />
+			<w:pitch w:val="variable" />
+			<w:sig w:usb-0="00000001" w:usb-1="080E0000" w:usb-2="00000010" w:usb-3="00000000" w:csb-0="00040000" w:csb-1="00000000" />
+		</w:font>
+		<w:font w:name="@宋体">
+			<w:panose-1 w:val="02010600030101010101" />
+			<w:charset w:val="86" />
+			<w:family w:val="Auto" />
+			<w:pitch w:val="variable" />
+			<w:sig w:usb-0="00000003" w:usb-1="080E0000" w:usb-2="00000010" w:usb-3="00000000" w:csb-0="00040001" w:csb-1="00000000" />
+		</w:font>
+		<w:font w:name="@方正舒体">
+			<w:panose-1 w:val="02010601030101010101" />
+			<w:charset w:val="86" />
+			<w:family w:val="Auto" />
+			<w:pitch w:val="variable" />
+			<w:sig w:usb-0="00000003" w:usb-1="080E0000" w:usb-2="00000010" w:usb-3="00000000" w:csb-0="00040000" w:csb-1="00000000" />
+		</w:font>
+	</w:fonts>
+	<w:styles>
+		<w:versionOfBuiltInStylenames w:val="4" />
+		<w:latentStyles w:defLockedState="off" w:latentStyleCount="156" />
+		<w:style w:type="paragraph" w:default="on" w:styleId="a">
+			<w:name w:val="Normal" />
+			<wx:uiName wx:val="正文" />
+			<w:pPr>
+				<w:widowControl w:val="off" />
+				<w:jc w:val="both" />
+			</w:pPr>
+			<w:rPr>
+				<wx:font wx:val="Times New Roman" />
+				<w:kern w:val="2" />
+				<w:sz w:val="21" />
+				<w:sz-cs w:val="24" />
+				<w:lang w:val="EN-US" w:fareast="ZH-CN" w:bidi="AR-SA" />
+			</w:rPr>
+		</w:style>
+		<w:style w:type="character" w:default="on" w:styleId="a0">
+			<w:name w:val="Default Paragraph Font" />
+			<wx:uiName wx:val="默认段落字体" />
+		</w:style>
+		<w:style w:type="table" w:default="on" w:styleId="a1">
+			<w:name w:val="Normal Table" />
+			<wx:uiName wx:val="普通表格" />
+			<w:semiHidden />
+			<w:rPr>
+				<wx:font wx:val="Times New Roman" />
+			</w:rPr>
+			<w:tblPr>
+				<w:tblCellMar>
+					<w:top w:w="0" w:type="dxa" />
+					<w:left w:w="108" w:type="dxa" />
+					<w:bottom w:w="0" w:type="dxa" />
+					<w:right w:w="108" w:type="dxa" />
+				</w:tblCellMar>
+			</w:tblPr>
+		</w:style>
+		<w:style w:type="list" w:default="on" w:styleId="a2">
+			<w:name w:val="No List" />
+			<wx:uiName wx:val="无列表" />
+			<w:semiHidden />
+		</w:style>
+		<w:style w:type="character" w:styleId="a3">
+			<w:name w:val="page number" />
+			<wx:uiName wx:val="页码" />
+			<w:basedOn w:val="a0" />
+		</w:style>
+		<w:style w:type="paragraph" w:styleId="a4">
+			<w:name w:val="header" />
+			<wx:uiName wx:val="页眉" />
+			<w:basedOn w:val="a" />
+			<w:pPr>
+				<w:pStyle w:val="a4" />
+				<w:pBdr>
+					<w:bottom w:val="single" w:sz="6" wx:bdrwidth="15" w:space="1" w:color="auto" />
+				</w:pBdr>
+				<w:tabs>
+					<w:tab w:val="center" w:pos="4153" />
+					<w:tab w:val="right" w:pos="8306" />
+				</w:tabs>
+				<w:snapToGrid w:val="off" />
+				<w:jc w:val="center" />
+			</w:pPr>
+			<w:rPr>
+				<wx:font wx:val="Times New Roman" />
+				<w:sz w:val="18" />
+				<w:sz-cs w:val="18" />
+			</w:rPr>
+		</w:style>
+		<w:style w:type="paragraph" w:styleId="a5">
+			<w:name w:val="Normal (Web)" />
+			<wx:uiName wx:val="普通(网站)" />
+			<w:basedOn w:val="a" />
+			<w:pPr>
+				<w:pStyle w:val="a5" />
+				<w:widowControl />
+				<w:spacing w:before="100" w:before-autospacing="on" w:after="100" w:after-autospacing="on" />
+				<w:jc w:val="left" />
+			</w:pPr>
+			<w:rPr>
+				<w:rFonts w:ascii="宋体" w:h-ansi="宋体" w:cs="宋体" />
+				<wx:font wx:val="宋体" />
+				<w:kern w:val="0" />
+				<w:sz w:val="24" />
+			</w:rPr>
+		</w:style>
+		<w:style w:type="paragraph" w:styleId="a6">
+			<w:name w:val="footer" />
+			<wx:uiName wx:val="页脚" />
+			<w:basedOn w:val="a" />
+			<w:pPr>
+				<w:pStyle w:val="a6" />
+				<w:tabs>
+					<w:tab w:val="center" w:pos="4153" />
+					<w:tab w:val="right" w:pos="8306" />
+				</w:tabs>
+				<w:snapToGrid w:val="off" />
+				<w:jc w:val="left" />
+			</w:pPr>
+			<w:rPr>
+				<wx:font wx:val="Times New Roman" />
+				<w:sz w:val="18" />
+				<w:sz-cs w:val="18" />
+			</w:rPr>
+		</w:style>
+	</w:styles>
+	<w:shapeDefaults>
+		<o:shapedefaults v:ext="edit" spidmax="3075" fillcolor="#9cbee0" strokecolor="#739cc3">
+			<v:fill color="#9cbee0" color2="#bbd5f0" type="gradient">
+				<o:fill v:ext="view" type="gradientUnscaled" />
+			</v:fill>
+			<v:stroke color="#739cc3" weight="1.25pt" />
+		</o:shapedefaults>
+		<o:shapelayout v:ext="edit">
+			<o:idmap v:ext="edit" data="1" />
+		</o:shapelayout>
+	</w:shapeDefaults>
+	<w:docPr>
+		<w:view w:val="print" />
+		<w:zoom w:percent="100" />
+		<w:doNotEmbedSystemFonts />
+		<w:bordersDontSurroundHeader />
+		<w:bordersDontSurroundFooter />
+		<w:attachedTemplate w:val="" />
+		<w:defaultTabStop w:val="420" />
+		<w:drawingGridHorizontalSpacing w:val="105" />
+		<w:drawingGridVerticalSpacing w:val="156" />
+		<w:displayHorizontalDrawingGridEvery w:val="0" />
+		<w:displayVerticalDrawingGridEvery w:val="2" />
+		<w:punctuationKerning />
+		<w:characterSpacingControl w:val="CompressPunctuation" />
+		<w:webPageEncoding w:val="x-cp20936" />
+		<w:optimizeForBrowser />
+		<w:validateAgainstSchema w:val="off" />
+		<w:saveInvalidXML w:val="off" />
+		<w:ignoreMixedContent w:val="off" />
+		<w:alwaysShowPlaceholderText w:val="off" />
+		<w:doNotUnderlineInvalidXML />
+		<w:hdrShapeDefaults>
+			<o:shapedefaults v:ext="edit" spidmax="3075" fillcolor="#9cbee0" strokecolor="#739cc3">
+				<v:fill color="#9cbee0" color2="#bbd5f0" type="gradient">
+					<o:fill v:ext="view" type="gradientUnscaled" />
+				</v:fill>
+				<v:stroke color="#739cc3" weight="1.25pt" />
+			</o:shapedefaults>
+			<o:shapelayout v:ext="edit">
+				<o:idmap v:ext="edit" data="2" />
+			</o:shapelayout>
+		</w:hdrShapeDefaults>
+		<w:footnotePr>
+			<w:footnote w:type="separator">
+				<w:p wsp:rsidR="00016828" wsp:rsidRDefault="00016828">
+					<w:r>
+						<w:separator />
+					</w:r>
+				</w:p>
+			</w:footnote>
+			<w:footnote w:type="continuation-separator">
+				<w:p wsp:rsidR="00016828" wsp:rsidRDefault="00016828">
+					<w:r>
+						<w:continuationSeparator />
+					</w:r>
+				</w:p>
+			</w:footnote>
+		</w:footnotePr>
+		<w:endnotePr>
+			<w:endnote w:type="separator">
+				<w:p wsp:rsidR="00016828" wsp:rsidRDefault="00016828">
+					<w:r>
+						<w:separator />
+					</w:r>
+				</w:p>
+			</w:endnote>
+			<w:endnote w:type="continuation-separator">
+				<w:p wsp:rsidR="00016828" wsp:rsidRDefault="00016828">
+					<w:r>
+						<w:continuationSeparator />
+					</w:r>
+				</w:p>
+			</w:endnote>
+		</w:endnotePr>
+		<w:compat>
+			<w:spaceForUL />
+			<w:balanceSingleByteDoubleByteWidth />
+			<w:doNotLeaveBackslashAlone />
+			<w:ulTrailSpace />
+			<w:doNotExpandShiftReturn />
+			<w:adjustLineHeightInTable />
+			<w:snapToGridInCell />
+			<w:dontGrowAutofit />
+			<w:useFELayout />
+		</w:compat>
+		<wsp:rsids>
+			<wsp:rsidRoot wsp:val="00172A27" />
+			<wsp:rsid wsp:val="00016828" />
+			<wsp:rsid wsp:val="000749A6" />
+			<wsp:rsid wsp:val="0018774E" />
+			<wsp:rsid wsp:val="001B4C66" />
+			<wsp:rsid wsp:val="002C7E07" />
+			<wsp:rsid wsp:val="003171CF" />
+			<wsp:rsid wsp:val="00367413" />
+			<wsp:rsid wsp:val="0044025E" />
+			<wsp:rsid wsp:val="005112D7" />
+			<wsp:rsid wsp:val="0057238C" />
+			<wsp:rsid wsp:val="00590598" />
+			<wsp:rsid wsp:val="005E64A3" />
+			<wsp:rsid wsp:val="00604CF6" />
+			<wsp:rsid wsp:val="006719C7" />
+			<wsp:rsid wsp:val="00954C37" />
+			<wsp:rsid wsp:val="009E2F79" />
+			<wsp:rsid wsp:val="00B5184E" />
+			<wsp:rsid wsp:val="00BA5A88" />
+			<wsp:rsid wsp:val="00BD4831" />
+			<wsp:rsid wsp:val="00C50078" />
+			<wsp:rsid wsp:val="00CB5245" />
+			<wsp:rsid wsp:val="00D82C3E" />
+			<wsp:rsid wsp:val="00DF1578" />
+			<wsp:rsid wsp:val="00E71834" />
+			<wsp:rsid wsp:val="00E9785A" />
+			<wsp:rsid wsp:val="00F85F76" />
+			<wsp:rsid wsp:val="4C930E5C" />
+		</wsp:rsids>
+	</w:docPr>
+	<w:body>
+		<wx:sect>
+			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:adjustRightInd w:val="off" />
+					<w:snapToGrid w:val="off" />
+					<w:spacing w:line="240" w:line-rule="at-least" />
+					<w:jc w:val="center" />
+					<w:rPr>
+						<w:rFonts w:ascii="黑体" w:fareast="黑体" w:hint="fareast" />
+						<wx:font wx:val="黑体" />
+						<w:b />
+						<w:sz w:val="36" />
+						<w:sz-cs w:val="36" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:ascii="黑体" w:fareast="黑体" w:hint="fareast" />
+						<wx:font wx:val="黑体" />
+						<w:b />
+						<w:sz w:val="36" />
+						<w:sz-cs w:val="36" />
+					</w:rPr>
+					<w:t>《期末测试（难）》试卷</w:t>
+				</w:r>
+			</w:p>			
+			<w:tbl>
+				<w:tblPr>
+					<w:tblpPr w:leftFromText="180" w:rightFromText="180" w:vertAnchor="text" w:tblpX="139" w:tblpY="166" />
+					<w:tblW w:w="0" w:type="auto" />
+					<w:tblInd w:w="0" w:type="dxa" />
+					<w:tblBorders>
+						<w:top w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+						<w:left w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+						<w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+						<w:right w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+						<w:insideH w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+						<w:insideV w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+					</w:tblBorders>
+					<w:tblLayout w:type="Fixed" />
+					<w:tblCellMar>
+						<w:left w:w="57" w:type="dxa" />
+						<w:right w:w="57" w:type="dxa" />
+					</w:tblCellMar>
+				</w:tblPr>
+				<w:tblGrid>
+					<w:gridCol w:w="1765" />
+					<w:gridCol w:w="588" />
+					<w:gridCol w:w="884" />
+					<w:gridCol w:w="795" />
+					<w:gridCol w:w="915" />
+					<w:gridCol w:w="870" />
+					<w:gridCol w:w="825" />
+				</w:tblGrid>
+				<w:tr wsp:rsidR="00000000">
+					<w:trPr>
+						<w:cantSplit />
+						<w:trHeight w:val="440" />
+					</w:trPr>
+					<w:tc>
+						<w:tcPr>
+							<w:tcW w:w="1765" w:type="dxa" />
+							<w:tcBorders>
+								<w:top w:val="single" w:sz="8" wx:bdrwidth="20" w:space="0" w:color="auto" />
+								<w:left w:val="single" w:sz="8" wx:bdrwidth="20" w:space="0" w:color="auto" />
+								<w:bottom w:val="single" w:sz="8" wx:bdrwidth="20" w:space="0" w:color="auto" />
+							</w:tcBorders>
+							<w:vAlign w:val="center" />
+						</w:tcPr>
+						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+							<w:pPr>
+								<w:framePr w:hspace="180" w:wrap="around" w:vanchor="text" w:hanchor="text" w:x="139" w:y="166" />
+								<w:adjustRightInd w:val="off" />
+								<w:snapToGrid w:val="off" />
+								<w:spacing w:line="240" w:line-rule="at-least" />
+								<w:jc w:val="center" />
+								<w:rPr>
+									<w:rFonts w:hint="fareast" />
+								</w:rPr>
+							</w:pPr>
+							<w:r>
+								<w:rPr>
+									<w:rFonts w:hint="fareast" />
+									<wx:font wx:val="宋体" />
+								</w:rPr>
+								<w:t>总分</w:t>
+							</w:r>
+						</w:p>
+					</w:tc>
+					<w:tc>
+						<w:tcPr>
+							<w:tcW w:w="588" w:type="dxa" />
+							<w:tcBorders>
+								<w:top w:val="single" w:sz="8" wx:bdrwidth="20" w:space="0" w:color="auto" />
+							</w:tcBorders>
+							<w:vAlign w:val="center" />
+						</w:tcPr>
+						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+							<w:pPr>
+								<w:framePr w:hspace="180" w:wrap="around" w:vanchor="text" w:hanchor="text" w:x="139" w:y="166" />
+								<w:adjustRightInd w:val="off" />
+								<w:snapToGrid w:val="off" />
+								<w:spacing w:line="240" w:line-rule="at-least" />
+								<w:jc w:val="center" />
+								<w:rPr>
+									<w:rFonts w:hint="fareast" />
+								</w:rPr>
+							</w:pPr>
+							<w:r>
+								<w:rPr>
+									<w:rFonts w:hint="fareast" />
+									<wx:font wx:val="宋体" />
+								</w:rPr>
+								<w:t>题号</w:t>
+							</w:r>
+						</w:p>
+					</w:tc>
+										<w:tc>
+						<w:tcPr>
+							<w:tcW w:w="884" w:type="dxa" />
+							<w:tcBorders>
+								<w:top w:val="single" w:sz="8" wx:bdrwidth="20" w:space="0" w:color="auto" />
+							</w:tcBorders>
+							<w:vAlign w:val="center" />
+						</w:tcPr>
+						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+							<w:pPr>
+								<w:framePr w:hspace="180" w:wrap="around" w:vanchor="text" w:hanchor="text" w:x="139" w:y="166" />
+								<w:adjustRightInd w:val="off" />
+								<w:snapToGrid w:val="off" />
+								<w:spacing w:line="240" w:line-rule="at-least" />
+								<w:jc w:val="center" />
+								<w:rPr>
+									<w:rFonts w:hint="fareast" />
+								</w:rPr>
+							</w:pPr>
+							<w:r>
+								<w:rPr>
+									<w:rFonts w:hint="fareast" />
+									<wx:font wx:val="宋体" />
+								</w:rPr>
+								<w:t>一</w:t>
+							</w:r>
+						</w:p>
+					</w:tc>
+										<w:tc>
+						<w:tcPr>
+							<w:tcW w:w="884" w:type="dxa" />
+							<w:tcBorders>
+								<w:top w:val="single" w:sz="8" wx:bdrwidth="20" w:space="0" w:color="auto" />
+							</w:tcBorders>
+							<w:vAlign w:val="center" />
+						</w:tcPr>
+						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+							<w:pPr>
+								<w:framePr w:hspace="180" w:wrap="around" w:vanchor="text" w:hanchor="text" w:x="139" w:y="166" />
+								<w:adjustRightInd w:val="off" />
+								<w:snapToGrid w:val="off" />
+								<w:spacing w:line="240" w:line-rule="at-least" />
+								<w:jc w:val="center" />
+								<w:rPr>
+									<w:rFonts w:hint="fareast" />
+								</w:rPr>
+							</w:pPr>
+							<w:r>
+								<w:rPr>
+									<w:rFonts w:hint="fareast" />
+									<wx:font wx:val="宋体" />
+								</w:rPr>
+								<w:t>二</w:t>
+							</w:r>
+						</w:p>
+					</w:tc>
+										<w:tc>
+						<w:tcPr>
+							<w:tcW w:w="884" w:type="dxa" />
+							<w:tcBorders>
+								<w:top w:val="single" w:sz="8" wx:bdrwidth="20" w:space="0" w:color="auto" />
+							</w:tcBorders>
+							<w:vAlign w:val="center" />
+						</w:tcPr>
+						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+							<w:pPr>
+								<w:framePr w:hspace="180" w:wrap="around" w:vanchor="text" w:hanchor="text" w:x="139" w:y="166" />
+								<w:adjustRightInd w:val="off" />
+								<w:snapToGrid w:val="off" />
+								<w:spacing w:line="240" w:line-rule="at-least" />
+								<w:jc w:val="center" />
+								<w:rPr>
+									<w:rFonts w:hint="fareast" />
+								</w:rPr>
+							</w:pPr>
+							<w:r>
+								<w:rPr>
+									<w:rFonts w:hint="fareast" />
+									<wx:font wx:val="宋体" />
+								</w:rPr>
+								<w:t>三</w:t>
+							</w:r>
+						</w:p>
+					</w:tc>
+									</w:tr>
+				<w:tr wsp:rsidR="00000000">
+					<w:trPr>
+						<w:cantSplit />
+						<w:trHeight w:val="465" />
+					</w:trPr>
+					<w:tc>
+						<w:tcPr>
+							<w:tcW w:w="1765" w:type="dxa" />
+							<w:tcBorders>
+								<w:top w:val="single" w:sz="8" wx:bdrwidth="20" w:space="0" w:color="auto" />
+								<w:left w:val="single" w:sz="8" wx:bdrwidth="20" w:space="0" w:color="auto" />
+							</w:tcBorders>
+							<w:vAlign w:val="center" />
+						</w:tcPr>
+						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+							<w:pPr>
+								<w:framePr w:hspace="180" w:wrap="around" w:vanchor="text" w:hanchor="text" w:x="139" w:y="166" />
+								<w:adjustRightInd w:val="off" />
+								<w:snapToGrid w:val="off" />
+								<w:spacing w:line="240" w:line-rule="at-least" />
+								<w:jc w:val="center" />
+								<w:rPr>
+									<w:rFonts w:hint="fareast" />
+								</w:rPr>
+							</w:pPr>
+						</w:p>
+					</w:tc>
+					<w:tc>
+						<w:tcPr>
+							<w:tcW w:w="588" w:type="dxa" />
+							<w:tcBorders>
+								<w:top w:val="single" w:sz="8" wx:bdrwidth="20" w:space="0" w:color="auto" />
+							</w:tcBorders>
+							<w:vAlign w:val="center" />
+						</w:tcPr>
+						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+							<w:pPr>
+								<w:framePr w:hspace="180" w:wrap="around" w:vanchor="text" w:hanchor="text" w:x="139" w:y="166" />
+								<w:adjustRightInd w:val="off" />
+								<w:snapToGrid w:val="off" />
+								<w:spacing w:line="240" w:line-rule="at-least" />
+								<w:jc w:val="center" />
+								<w:rPr>
+									<w:rFonts w:hint="fareast" />
+								</w:rPr>
+							</w:pPr>
+							<w:r>
+								<w:rPr>
+									<w:rFonts w:hint="fareast" />
+									<wx:font wx:val="宋体" />
+								</w:rPr>
+								<w:t>题分</w:t>
+							</w:r>
+						</w:p>
+					</w:tc>
+					<w:tc>
+						<w:tcPr>
+							<w:tcW w:w="884" w:type="dxa" />
+							<w:tcBorders>
+								<w:top w:val="single" w:sz="8" wx:bdrwidth="20" w:space="0" w:color="auto" />
+							</w:tcBorders>
+							<w:vAlign w:val="center" />
+						</w:tcPr>
+						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+							<w:pPr>
+								<w:framePr w:hspace="180" w:wrap="around" w:vanchor="text" w:hanchor="text" w:x="139" w:y="166" />
+								<w:adjustRightInd w:val="off" />
+								<w:snapToGrid w:val="off" />
+								<w:spacing w:line="240" w:line-rule="at-least" />
+								<w:jc w:val="center" />
+								<w:rPr>
+									<w:rFonts w:hint="fareast" />
+								</w:rPr>
+							</w:pPr>
+							<w:r>
+								<w:rPr>
+									<w:rFonts w:hint="fareast" />
+								</w:rPr>
+								<w:t></w:t>
+							</w:r>
+						</w:p>
+					</w:tc>
+					<w:tc>
+						<w:tcPr>
+							<w:tcW w:w="884" w:type="dxa" />
+							<w:tcBorders>
+								<w:top w:val="single" w:sz="8" wx:bdrwidth="20" w:space="0" w:color="auto" />
+							</w:tcBorders>
+							<w:vAlign w:val="center" />
+						</w:tcPr>
+						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+							<w:pPr>
+								<w:framePr w:hspace="180" w:wrap="around" w:vanchor="text" w:hanchor="text" w:x="139" w:y="166" />
+								<w:adjustRightInd w:val="off" />
+								<w:snapToGrid w:val="off" />
+								<w:spacing w:line="240" w:line-rule="at-least" />
+								<w:jc w:val="center" />
+								<w:rPr>
+									<w:rFonts w:hint="fareast" />
+								</w:rPr>
+							</w:pPr>
+							<w:r>
+								<w:rPr>
+									<w:rFonts w:hint="fareast" />
+								</w:rPr>
+								<w:t></w:t>
+							</w:r>
+						</w:p>
+					</w:tc>
+					<w:tc>
+						<w:tcPr>
+							<w:tcW w:w="884" w:type="dxa" />
+							<w:tcBorders>
+								<w:top w:val="single" w:sz="8" wx:bdrwidth="20" w:space="0" w:color="auto" />
+							</w:tcBorders>
+							<w:vAlign w:val="center" />
+						</w:tcPr>
+						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+							<w:pPr>
+								<w:framePr w:hspace="180" w:wrap="around" w:vanchor="text" w:hanchor="text" w:x="139" w:y="166" />
+								<w:adjustRightInd w:val="off" />
+								<w:snapToGrid w:val="off" />
+								<w:spacing w:line="240" w:line-rule="at-least" />
+								<w:jc w:val="center" />
+								<w:rPr>
+									<w:rFonts w:hint="fareast" />
+								</w:rPr>
+							</w:pPr>
+							<w:r>
+								<w:rPr>
+									<w:rFonts w:hint="fareast" />
+								</w:rPr>
+								<w:t></w:t>
+							</w:r>
+						</w:p>
+					</w:tc>
+				</w:tr>
+				<w:tr wsp:rsidR="00000000">
+					<w:trPr>
+						<w:cantSplit />
+						<w:trHeight w:val="465" />
+					</w:trPr>
+					<w:tc>
+						<w:tcPr>
+							<w:tcW w:w="1765" w:type="dxa" />
+							<w:tcBorders>
+								<w:left w:val="single" w:sz="8" wx:bdrwidth="20" w:space="0" w:color="auto" />
+								<w:bottom w:val="single" w:sz="8" wx:bdrwidth="20" w:space="0" w:color="auto" />
+							</w:tcBorders>
+							<w:vAlign w:val="center" />
+						</w:tcPr>
+						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+							<w:pPr>
+								<w:framePr w:hspace="180" w:wrap="around" w:vanchor="text" w:hanchor="text" w:x="139" w:y="166" />
+								<w:adjustRightInd w:val="off" />
+								<w:snapToGrid w:val="off" />
+								<w:spacing w:line="240" w:line-rule="at-least" />
+								<w:jc w:val="center" />
+								<w:rPr>
+									<w:rFonts w:hint="fareast" />
+								</w:rPr>
+							</w:pPr>
+						</w:p>
+					</w:tc>
+					<w:tc>
+						<w:tcPr>
+							<w:tcW w:w="588" w:type="dxa" />
+							<w:tcBorders>
+								<w:bottom w:val="single" w:sz="8" wx:bdrwidth="20" w:space="0" w:color="auto" />
+							</w:tcBorders>
+							<w:vAlign w:val="center" />
+						</w:tcPr>
+						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+							<w:pPr>
+								<w:framePr w:hspace="180" w:wrap="around" w:vanchor="text" w:hanchor="text" w:x="139" w:y="166" />
+								<w:adjustRightInd w:val="off" />
+								<w:snapToGrid w:val="off" />
+								<w:spacing w:line="240" w:line-rule="at-least" />
+								<w:jc w:val="center" />
+								<w:rPr>
+									<w:rFonts w:hint="fareast" />
+								</w:rPr>
+							</w:pPr>
+							<w:r>
+								<w:rPr>
+									<w:rFonts w:hint="fareast" />
+									<wx:font wx:val="宋体" />
+								</w:rPr>
+								<w:t>得分</w:t>
+							</w:r>
+						</w:p>
+					</w:tc>
+					<w:tc>
+						<w:tcPr>
+							<w:tcW w:w="884" w:type="dxa" />
+							<w:tcBorders>
+								<w:bottom w:val="single" w:sz="8" wx:bdrwidth="20" w:space="0" w:color="auto" />
+							</w:tcBorders>
+							<w:vAlign w:val="center" />
+						</w:tcPr>
+						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+							<w:pPr>
+								<w:framePr w:hspace="180" w:wrap="around" w:vanchor="text" w:hanchor="text" w:x="139" w:y="166" />
+								<w:adjustRightInd w:val="off" />
+								<w:snapToGrid w:val="off" />
+								<w:spacing w:line="240" w:line-rule="at-least" />
+								<w:jc w:val="center" />
+								<w:rPr>
+									<w:rFonts w:hint="fareast" />
+								</w:rPr>
+							</w:pPr>
+						</w:p>
+					</w:tc>
+					<w:tc>
+						<w:tcPr>
+							<w:tcW w:w="884" w:type="dxa" />
+							<w:tcBorders>
+								<w:bottom w:val="single" w:sz="8" wx:bdrwidth="20" w:space="0" w:color="auto" />
+							</w:tcBorders>
+							<w:vAlign w:val="center" />
+						</w:tcPr>
+						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+							<w:pPr>
+								<w:framePr w:hspace="180" w:wrap="around" w:vanchor="text" w:hanchor="text" w:x="139" w:y="166" />
+								<w:adjustRightInd w:val="off" />
+								<w:snapToGrid w:val="off" />
+								<w:spacing w:line="240" w:line-rule="at-least" />
+								<w:jc w:val="center" />
+								<w:rPr>
+									<w:rFonts w:hint="fareast" />
+								</w:rPr>
+							</w:pPr>
+						</w:p>
+					</w:tc>
+					<w:tc>
+						<w:tcPr>
+							<w:tcW w:w="884" w:type="dxa" />
+							<w:tcBorders>
+								<w:bottom w:val="single" w:sz="8" wx:bdrwidth="20" w:space="0" w:color="auto" />
+							</w:tcBorders>
+							<w:vAlign w:val="center" />
+						</w:tcPr>
+						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+							<w:pPr>
+								<w:framePr w:hspace="180" w:wrap="around" w:vanchor="text" w:hanchor="text" w:x="139" w:y="166" />
+								<w:adjustRightInd w:val="off" />
+								<w:snapToGrid w:val="off" />
+								<w:spacing w:line="240" w:line-rule="at-least" />
+								<w:jc w:val="center" />
+								<w:rPr>
+									<w:rFonts w:hint="fareast" />
+								</w:rPr>
+							</w:pPr>
+						</w:p>
+					</w:tc>
+				</w:tr>
+			</w:tbl>
+			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:adjustRightInd w:val="off" />
+					<w:snapToGrid w:val="off" />
+					<w:spacing w:before-lines="100" w:after-lines="50" w:line="240" w:line-rule="at-least" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+					</w:rPr>
+				</w:pPr>
+			</w:p>
+			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:adjustRightInd w:val="off" />
+					<w:snapToGrid w:val="off" />
+					<w:spacing w:line="240" w:line-rule="at-least" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+					</w:rPr>
+				</w:pPr>
+			</w:p>
+			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:adjustRightInd w:val="off" />
+					<w:snapToGrid w:val="off" />
+					<w:spacing w:line="240" w:line-rule="at-least" />
+					<w:rPr>
+						<w:rFonts w:ascii="黑体" w:fareast="黑体" w:hint="fareast" />
+						<wx:font wx:val="黑体" />
+					</w:rPr>
+				</w:pPr>
+			</w:p>
+			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:adjustRightInd w:val="off" />
+					<w:snapToGrid w:val="off" />
+					<w:spacing w:line="240" w:line-rule="at-least" />
+					<w:rPr>
+						<w:rFonts w:ascii="黑体" w:fareast="黑体" w:hint="fareast" />
+						<wx:font wx:val="黑体" />
+					</w:rPr>
+				</w:pPr>
+			</w:p>
+			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:adjustRightInd w:val="off" />
+					<w:snapToGrid w:val="off" />
+					<w:spacing w:line="240" w:line-rule="at-least" />
+					<w:rPr>
+						<w:rFonts w:ascii="黑体" w:fareast="黑体" w:hint="fareast" />
+						<wx:font wx:val="黑体" />
+					</w:rPr>
+				</w:pPr>
+			</w:p>
+			<w:p wsp:rsidR="00B5184E" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:adjustRightInd w:val="off" />
+					<w:snapToGrid w:val="off" />
+					<w:spacing w:line="240" w:line-rule="at-least" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+					</w:rPr>
+					<w:t></w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+					</w:rPr>
+					<w:t></w:t>
+				</w:r>
+			</w:p>
+			<w:p wsp:rsidR="00B5184E" wsp:rsidRPr="00B5184E" wsp:rsidRDefault="00016828" wsp:rsidP="00B5184E">
+				<w:pPr>
+					<w:adjustRightInd w:val="off" />
+					<w:snapToGrid w:val="off" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:ascii="黑体" w:fareast="黑体" />
+						<wx:font wx:val="黑体" />
+						<w:sz w:val="24" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+					</w:rPr>
+					<w:t></w:t>
+				</w:r>
+			</w:p>
+						<w:tbl>
+				<w:tblPr>
+					<w:tblW w:w="0" w:type="auto" />
+					<w:tblInd w:w="3" w:type="dxa" />
+					<w:tblBorders>
+						<w:top w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+						<w:left w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+						<w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+						<w:right w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+						<w:insideH w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+						<w:insideV w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+					</w:tblBorders>
+					<w:tblLayout w:type="Fixed" />
+				</w:tblPr>
+				<w:tblGrid>
+					<w:gridCol w:w="735" />
+					<w:gridCol w:w="735" />
+				</w:tblGrid>
+				<w:tr wsp:rsidR="00000000">
+					<w:tc>
+						<w:tcPr>
+							<w:tcW w:w="735" w:type="dxa" />
+						</w:tcPr>
+						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+							<w:pPr>
+								<w:pStyle w:val="a5" />
+								<w:spacing w:line="60" w:line-rule="auto" />
+								<w:rPr>
+									<w:rFonts w:hint="fareast" />
+									<w:sz w:val="18" />
+								</w:rPr>
+							</w:pPr>
+							<w:r>
+								<w:rPr>
+									<w:rFonts w:hint="fareast" />
+									<w:sz w:val="18" />
+								</w:rPr>
+								<w:t>得分</w:t>
+							</w:r>
+						</w:p>
+					</w:tc>
+					<w:tc>
+						<w:tcPr>
+							<w:tcW w:w="735" w:type="dxa" />
+						</w:tcPr>
+						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+							<w:pPr>
+								<w:pStyle w:val="a5" />
+								<w:spacing w:line="60" w:line-rule="auto" />
+								<w:rPr>
+									<w:rFonts w:hint="fareast" />
+									<w:sz w:val="18" />
+								</w:rPr>
+							</w:pPr>
+						</w:p>
+					</w:tc>
+				</w:tr>
+			</w:tbl>
+			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>一、单选题（每题</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>2</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>分，共计</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>50</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>分）</w:t>
+				</w:r>
+			</w:p>
+						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>1、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>阅读下列的程序<w:br/>public class Test3 {<w:br/>    public static void main(String[] args) {<w:br/>        _________________________<w:br/>        _________________________<w:br/>    }<w:br/>}<w:br/>class Outer {<w:br/>    static class Inner {<w:br/>        public void method () {<w:br/>            System.out.println("method");<w:br/>        }<w:br/>    }<w:br/>}<w:br/>下列选项中，可以正确输出method()方法的是（    ）<w:br/>A、Outer o = new Outer();<w:br/>   o.method();<w:br/>B、Inner I = new Inner();<w:br/>   i.method();<w:br/>C、Outer.Inner oi = new Outer.Inner();<w:br/>   oi.method();<w:br/>D、以上答案都不对<w:br/><w:br/></w:t>
+				</w:r>
+			</w:p>
+						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>A、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>Outer o = new Outer(); o.method();</w:t>
+				</w:r>
+			</w:p>
+			 			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>B、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>Inner I = new Inner(); i.method();</w:t>
+				</w:r>
+			</w:p>
+			 			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>C、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>Outer.Inner oi = new Outer.Inner(); oi.method();</w:t>
+				</w:r>
+			</w:p>
+			 			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>D、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>以上答案都不对</w:t>
+				</w:r>
+			</w:p>
+			 						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>2、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>请阅读下面的程序<w:br/>public class Test {<w:br/>    public static void main(String[] args) {<w:br/>        int a[ ] = { 2, 0, 4, 1, 8, 3, 5 };<w:br/>        int temp;<w:br/>        for (int i = 0; i &lt; a.length - 1; i++) {<w:br/>            for (int j = a.length - 1; j &gt; i; j--) {<w:br/>                if (a[j] &lt; a[j - 1]) {<w:br/>                    temp = a[j];<w:br/>                    a[j] = a[j - 1];<w:br/>                    a[j - 1] = temp;<w:br/>                }<w:br/>            }<w:br/>        }<w:br/>        for (Integer i : a) {<w:br/>            System.out.print(i);<w:br/>        }<w:br/>    }<w:br/>}<w:br/>下列选项中，哪个是程序的运行结果（）<w:br/><w:br/></w:t>
+				</w:r>
+			</w:p>
+						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>A、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>8543210</w:t>
+				</w:r>
+			</w:p>
+			 			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>B、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>0123458</w:t>
+				</w:r>
+			</w:p>
+			 			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>C、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>2041835</w:t>
+				</w:r>
+			</w:p>
+			 			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>D、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>以上答案都不对</w:t>
+				</w:r>
+			</w:p>
+			 						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>3、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>请阅读下面的程序<w:br/>public class Example  {                                                            <w:br/>     public static void main(String[] args) {                                      <w:br/>         int x = 1;                                                                            <w:br/>         do {                                                                                   <w:br/>             x++;                                                                        <w:br/>         } while (x &lt;= 4);                                                                            <w:br/>        System.out.println("x = " + x);                                                                  <w:br/>     }                                                                                                          <w:br/>}                                                                                                   <w:br/>运行程序后，下列选项中，哪一个是x的值</w:t>
+				</w:r>
+			</w:p>
+						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>A、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>3</w:t>
+				</w:r>
+			</w:p>
+			 			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>B、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>4</w:t>
+				</w:r>
+			</w:p>
+			 			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>C、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>5</w:t>
+				</w:r>
+			</w:p>
+			 			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>D、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>6</w:t>
+				</w:r>
+			</w:p>
+			 						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>4、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>下列选项中关于二维数组的定义，格式错误的是（   ）<w:br/><w:br/></w:t>
+				</w:r>
+			</w:p>
+						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>A、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>int[][] arr = new int[3][4]</w:t>
+				</w:r>
+			</w:p>
+			 			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>B、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>int[][] arr = new int[3][]</w:t>
+				</w:r>
+			</w:p>
+			 			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>C、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>int[][] arr = new int[][4]</w:t>
+				</w:r>
+			</w:p>
+			 			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>D、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>int[][] arr = {{1,2},{3,4,5},{6}}</w:t>
+				</w:r>
+			</w:p>
+			 						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>5、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>请阅读下面的程序代码<w:br/>Class Person{<w:br/>   void say(){<w:br/>       System.out.println(“hello”);<w:br/>}<w:br/>}<w:br/>class Example{<w:br/>   public static void main(String[] args){<w:br/>Person p2 = new Person();<w:br/>Person p1 = new Person();<w:br/>  　　   p2.say();<w:br/>p1.say();<w:br/>p2=null;<w:br/>p2.say();<w:br/>}<w:br/>}<w:br/>下列关于程序运行结果的描述中，正确的是（）<w:br/></w:t>
+				</w:r>
+			</w:p>
+						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>A、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>输出1个hello</w:t>
+				</w:r>
+			</w:p>
+			 			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>B、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>输出2个hello后会抛出异常</w:t>
+				</w:r>
+			</w:p>
+			 			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>C、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>输出3个hello后会抛出异常</w:t>
+				</w:r>
+			</w:p>
+			 			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>D、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>不会输出hello，直接抛出异常</w:t>
+				</w:r>
+			</w:p>
+			 						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>6、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>下列关于JDK的说法中，错误的是？</w:t>
+				</w:r>
+			</w:p>
+						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>A、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>JDK是Java开发工具包的简称</w:t>
+				</w:r>
+			</w:p>
+			 			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>B、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>JDK包括Java编译器、Java文档生成工具、Java打包工具等</w:t>
+				</w:r>
+			</w:p>
+			 			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>C、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>安装JDK后，还需要单独安装JRE</w:t>
+				</w:r>
+			</w:p>
+			 			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>D、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>JDK是整个Java的核心</w:t>
+				</w:r>
+			</w:p>
+			 						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>7、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>下列关于JDK安装的说法中，错误的是？</w:t>
+				</w:r>
+			</w:p>
+						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>A、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>Oracle公司提供了多种操作系统的JDK</w:t>
+				</w:r>
+			</w:p>
+			 			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>B、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>开发工具中已经包含了一个JRE，因此可以选择不再安装公共的JRE环境</w:t>
+				</w:r>
+			</w:p>
+			 			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>C、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>在安装JDK过程中，源代码指的是Java公共的API类</w:t>
+				</w:r>
+			</w:p>
+			 			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>D、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>开发工具是JDK中的核心功能模块，因此无论是否进行Java程序开发都必须安装</w:t>
+				</w:r>
+			</w:p>
+			 						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>8、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>请阅读下面的程序片段<w:br/>    int x = 3;<w:br/>    if (x &gt; 5) {<w:br/>        System.out.print("a");<w:br/>    } else {<w:br/>        System.out.print("b");<w:br/>    }<w:br/>选择程序的运行结果（  ）<w:br/><w:br/></w:t>
+				</w:r>
+			</w:p>
+						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>A、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>a</w:t>
+				</w:r>
+			</w:p>
+			 			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>B、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>b</w:t>
+				</w:r>
+			</w:p>
+			 			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>C、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>ab</w:t>
+				</w:r>
+			</w:p>
+			 			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>D、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>编译错误</w:t>
+				</w:r>
+			</w:p>
+			 						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>9、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>阅读下面的程序<w:br/>class StringDemo{<w:br/>  public static void main(String[] args){<w:br/>    String s1 = “a”;<w:br/>  String s2 = “b”;<w:br/>  show(s1,s2);<w:br/>  System.out.println(s1+s2);<w:br/>}<w:br/> public static void show(String s1,String s2){<w:br/>     s1 = s1 +”q”;<w:br/>     s2 = s2 + s1;<w:br/>}<w:br/>}<w:br/>下列选项中，程序的运行结果是（）<w:br/><w:br/><w:br/></w:t>
+				</w:r>
+			</w:p>
+						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>A、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>ab</w:t>
+				</w:r>
+			</w:p>
+			 			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>B、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>aqb</w:t>
+				</w:r>
+			</w:p>
+			 			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>C、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>aqbaq</w:t>
+				</w:r>
+			</w:p>
+			 			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>D、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>aqaqb</w:t>
+				</w:r>
+			</w:p>
+			 						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>10、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>下列关于自定义异常的说法中，错误的是（  ）</w:t>
+				</w:r>
+			</w:p>
+						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>A、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>自定义异常要继承Exception类</w:t>
+				</w:r>
+			</w:p>
+			 			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>B、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>自定义异常继承Exception类后，具有可抛性</w:t>
+				</w:r>
+			</w:p>
+			 			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>C、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>自定义异常可以在构造方法中用super关键字传递异常信息给父类</w:t>
+				</w:r>
+			</w:p>
+			 			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>D、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>自定义异常必须继承Error类</w:t>
+				</w:r>
+			</w:p>
+			 						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>11、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>下列关于类的说法中，错误的是（   ）</w:t>
+				</w:r>
+			</w:p>
+						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>A、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>Java中创建类的关键字是class</w:t>
+				</w:r>
+			</w:p>
+			 			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>B、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>类中可以有属性与方法，属性用于描述对象的特征，方法用于描述对象的行为</w:t>
+				</w:r>
+			</w:p>
+			 			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>C、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>Java中对象的创建，首先需要定义出一个类</w:t>
+				</w:r>
+			</w:p>
+			 			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>D、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>一个类只能创建一个对象</w:t>
+				</w:r>
+			</w:p>
+			 						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>12、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>下列关于注释的使用，错误的是？（    ） <w:br/></w:t>
+				</w:r>
+			</w:p>
+						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>A、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>int c = 10; //定义变量c</w:t>
+				</w:r>
+			</w:p>
+			 			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>B、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>/* int c = 5; int x =6; */</w:t>
+				</w:r>
+			</w:p>
+			 			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>C、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>/** 这是类的入口方法 */</w:t>
+				</w:r>
+			</w:p>
+			 			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>D、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>/* /*int c = 10;*/ int x=5; */</w:t>
+				</w:r>
+			</w:p>
+			 						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>13、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>下列选项中，不属于比较运算符的是</w:t>
+				</w:r>
+			</w:p>
+						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>A、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>=</w:t>
+				</w:r>
+			</w:p>
+			 			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>B、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>==</w:t>
+				</w:r>
+			</w:p>
+			 			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>C、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>&lt;</w:t>
+				</w:r>
+			</w:p>
+			 			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>D、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>&lt;=</w:t>
+				</w:r>
+			</w:p>
+			 						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>14、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>下面关于整数类型的描述中，错误的是（    ）</w:t>
+				</w:r>
+			</w:p>
+						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>A、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>byte是java中的整数类型，它的取值范围是-127到128。</w:t>
+				</w:r>
+			</w:p>
+			 			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>B、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>java中的整数有正负之分。</w:t>
+				</w:r>
+			</w:p>
+			 			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>C、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>bit是java中的整数类型，它代表的是一个字节。</w:t>
+				</w:r>
+			</w:p>
+			 			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>D、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>int是java中的整数类型，它在内存中占4个字节。</w:t>
+				</w:r>
+			</w:p>
+			 						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>15、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>下列选项中，哪个可以用来创建对象？（）<w:br/></w:t>
+				</w:r>
+			</w:p>
+						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>A、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>new</w:t>
+				</w:r>
+			</w:p>
+			 			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>B、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>this</w:t>
+				</w:r>
+			</w:p>
+			 			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>C、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>super</w:t>
+				</w:r>
+			</w:p>
+			 			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>D、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>abstract</w:t>
+				</w:r>
+			</w:p>
+			 						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>16、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>表达式7%（-3）的运算结果为</w:t>
+				</w:r>
+			</w:p>
+						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>A、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>-2</w:t>
+				</w:r>
+			</w:p>
+			 			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>B、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>-1</w:t>
+				</w:r>
+			</w:p>
+			 			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>C、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>2</w:t>
+				</w:r>
+			</w:p>
+			 			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>D、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>1</w:t>
+				</w:r>
+			</w:p>
+			 						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>17、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>阅读下段代码<w:br/>import java.io.*;<w:br/>public class Example{<w:br/>public static void main(String[] args) throws Exception {<w:br/>    FileInputStream fis = new FileInputStream("file.txt");<w:br/>FileOutputStream fos = new FileOutputStream("copy_file.txt");<w:br/>        int ch = 0;<w:br/>        while((ch =fis.read())!=-1){<w:br/>                fos.write(ch);<w:br/>        }<w:br/>        fos._______;<w:br/>        fis.close();<w:br/>    }<w:br/>}<w:br/>下列选项中，哪个填写在程序的空白处，程序不会报错。<w:br/><w:br/></w:t>
+				</w:r>
+			</w:p>
+						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>A、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>read()</w:t>
+				</w:r>
+			</w:p>
+			 			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>B、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>available()</w:t>
+				</w:r>
+			</w:p>
+			 			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>C、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>close()</w:t>
+				</w:r>
+			</w:p>
+			 			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>D、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>write()</w:t>
+				</w:r>
+			</w:p>
+			 						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>18、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>下列选项中，按照箭头方向，需要进行强制类型转换的是</w:t>
+				</w:r>
+			</w:p>
+						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>A、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>double ← float</w:t>
+				</w:r>
+			</w:p>
+			 			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>B、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>float ← long</w:t>
+				</w:r>
+			</w:p>
+			 			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>C、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>int ← char</w:t>
+				</w:r>
+			</w:p>
+			 			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>D、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>char ←byte</w:t>
+				</w:r>
+			</w:p>
+			 						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>19、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>请阅读下面的程序，程序的运行结果是（）。<w:br/>class Person {<w:br/>    String name;<w:br/>    int age;<w:br/>    public Person() {}<w:br/>    public Person(String n, int a) {<w:br/>        name = n;<w:br/>        age = a;<w:br/>    }<w:br/>    public void show() {<w:br/>        System.out.print(name + "---" + age +"    ");<w:br/>    }<w:br/>}<w:br/>public class Test {<w:br/>    public static void main(String[] args) {<w:br/>        Person p1 = new Person();<w:br/>        p1.show();<w:br/>        Person p2 = new Person("周星驰", 27);<w:br/>        p2.show();<w:br/>    }<w:br/>}<w:br/><w:br/><w:br/></w:t>
+				</w:r>
+			</w:p>
+						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>A、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>null---0 周星驰---27</w:t>
+				</w:r>
+			</w:p>
+			 			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>B、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>null---27 周星驰---27</w:t>
+				</w:r>
+			</w:p>
+			 			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>C、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>周星驰---0 null---27</w:t>
+				</w:r>
+			</w:p>
+			 			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>D、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>周星驰---27 null ---27</w:t>
+				</w:r>
+			</w:p>
+			 						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>20、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>请阅读下面的程序<w:br/>public class Test {<w:br/>    public static void main(String[] args) {<w:br/>        int temp = 0;<w:br/>        for (int i = 1; i &lt; 5; i++) {<w:br/>            for (int j = 0; j &lt; i; j++) {<w:br/>                temp++;<w:br/>            }<w:br/>        }<w:br/>        System.out.println(temp);<w:br/>    }<w:br/>}<w:br/>下列选项中，哪一个是正确的运行结果（    ）<w:br/><w:br/></w:t>
+				</w:r>
+			</w:p>
+						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>A、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>5</w:t>
+				</w:r>
+			</w:p>
+			 			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>B、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>9</w:t>
+				</w:r>
+			</w:p>
+			 			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>C、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>10</w:t>
+				</w:r>
+			</w:p>
+			 			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>D、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>15</w:t>
+				</w:r>
+			</w:p>
+			 						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>21、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>下列选项中，可以正确配置classpath的命令是（  ）</w:t>
+				</w:r>
+			</w:p>
+						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>A、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>set classpath =C:\Program Files\Java\jdk1.7.0_15\bin</w:t>
+				</w:r>
+			</w:p>
+			 			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>B、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>set classpath : C:\Program Files\Java\jdk1.7.0_15\bin</w:t>
+				</w:r>
+			</w:p>
+			 			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>C、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>classpath set =C:\Program Files\Java\jdk1.7.0_15\bin</w:t>
+				</w:r>
+			</w:p>
+			 			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>D、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>classpath set : C:\Program Files\Java\jdk1.7.0_15\bin</w:t>
+				</w:r>
+			</w:p>
+			 						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>22、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>以下关于变量的说法错误的是？</w:t>
+				</w:r>
+			</w:p>
+						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>A、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>变量名必须是一个有效的标识符</w:t>
+				</w:r>
+			</w:p>
+			 			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>B、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>变量在定义时可以没有初始值</w:t>
+				</w:r>
+			</w:p>
+			 			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>C、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>变量一旦被定义，在程序中的任何位置都可以被访问</w:t>
+				</w:r>
+			</w:p>
+			 			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>D、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>在程序中，可以将一个byte类型的值赋给一个int类型的变量，不需要特殊声明</w:t>
+				</w:r>
+			</w:p>
+			 						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>23、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>下面关于path环境变量的说法中，错误的是？（）</w:t>
+				</w:r>
+			</w:p>
+						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>A、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>path环境变量是系统环境变量中的一种，它用于保存一系列的路径，每个路径之间以分号分隔</w:t>
+				</w:r>
+			</w:p>
+			 			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>B、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>在命令行窗口输入“set path”命令，可以查看当前系统的path环境变量</w:t>
+				</w:r>
+			</w:p>
+			 			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>C、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>在命令窗口对环境变量进行的任何修改只对当前窗口有效，一旦关闭窗口，所有的设置都会被取消</w:t>
+				</w:r>
+			</w:p>
+			 			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>D、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>配置系统环境变量时以英文半角逗号(,)分隔每一个路径</w:t>
+				</w:r>
+			</w:p>
+			 						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>24、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>下了关于接口继承的说法中，正确的是？（）</w:t>
+				</w:r>
+			</w:p>
+						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>A、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>接口继承自Object类</w:t>
+				</w:r>
+			</w:p>
+			 			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>B、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>一个接口只能继承一个接口</w:t>
+				</w:r>
+			</w:p>
+			 			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>C、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>一个接口可以继承多个接口</w:t>
+				</w:r>
+			</w:p>
+			 			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>D、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>接口不能被继承</w:t>
+				</w:r>
+			</w:p>
+			 						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>25、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>先阅读下面的程序片段：<w:br/>String str1=new String("java"); <w:br/>String str2=new String("java"); <w:br/>StringBuffer str3=new StringBuffer("java");<w:br/>对于上述定义的变量，以下表达式的值为true的是哪个？</w:t>
+				</w:r>
+			</w:p>
+						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>A、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>str1==str2;</w:t>
+				</w:r>
+			</w:p>
+			 			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>B、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>str1.equals(str2);</w:t>
+				</w:r>
+			</w:p>
+			 			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>C、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>str1==str3;</w:t>
+				</w:r>
+			</w:p>
+			 			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>D、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>以上都不对</w:t>
+				</w:r>
+			</w:p>
+			 									<w:tbl>
+				<w:tblPr>
+					<w:tblW w:w="0" w:type="auto" />
+					<w:tblInd w:w="3" w:type="dxa" />
+					<w:tblBorders>
+						<w:top w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+						<w:left w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+						<w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+						<w:right w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+						<w:insideH w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+						<w:insideV w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+					</w:tblBorders>
+					<w:tblLayout w:type="Fixed" />
+				</w:tblPr>
+				<w:tblGrid>
+					<w:gridCol w:w="735" />
+					<w:gridCol w:w="735" />
+				</w:tblGrid>
+				<w:tr wsp:rsidR="0018774E" wsp:rsidTr="00C81310">
+					<w:tc>
+						<w:tcPr>
+							<w:tcW w:w="735" w:type="dxa" />
+						</w:tcPr>
+						<w:p wsp:rsidR="0018774E" wsp:rsidRDefault="0018774E" wsp:rsidP="00C81310">
+							<w:pPr>
+								<w:pStyle w:val="a5" />
+								<w:spacing w:line="60" w:line-rule="auto" />
+								<w:rPr>
+									<w:rFonts w:hint="fareast" />
+									<w:sz w:val="18" />
+								</w:rPr>
+							</w:pPr>
+							<w:r>
+								<w:rPr>
+									<w:rFonts w:hint="fareast" />
+									<w:sz w:val="18" />
+								</w:rPr>
+								<w:t>得分</w:t>
+							</w:r>
+						</w:p>
+					</w:tc>
+					<w:tc>
+						<w:tcPr>
+							<w:tcW w:w="735" w:type="dxa" />
+						</w:tcPr>
+						<w:p wsp:rsidR="0018774E" wsp:rsidRDefault="0018774E" wsp:rsidP="00C81310">
+							<w:pPr>
+								<w:pStyle w:val="a5" />
+								<w:spacing w:line="60" w:line-rule="auto" />
+								<w:rPr>
+									<w:rFonts w:hint="fareast" />
+									<w:sz w:val="18" />
+								</w:rPr>
+							</w:pPr>
+						</w:p>
+					</w:tc>
+				</w:tr>
+			</w:tbl>
+			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:rPr>
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>二、判断题（对的打</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>“√”</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>，错的打</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>“×”</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>；每题</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>2</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>分，共</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>20</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>分）</w:t>
+				</w:r>
+			</w:p>
+						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>1、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>StringBuffer类和String类一样，都是不可变对象。</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t></w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>（</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t></w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>）</w:t>
+				</w:r>
+			</w:p>
+						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>2、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>在Java程序中，定义类必须使用class关键字。</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t></w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>（</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t></w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>）</w:t>
+				</w:r>
+			</w:p>
+						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>3、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>java.exe命令可用于编译.java文件</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t></w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>（</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t></w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>）</w:t>
+				</w:r>
+			</w:p>
+						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>4、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>StringBuffer类似一个字符容器，当在其中添加或删除字符时，并不会产生新的StringBuffer对象。</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t></w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>（</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t></w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>）</w:t>
+				</w:r>
+			</w:p>
+						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>5、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>Object类是所有类的父类</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t></w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>（</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t></w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>）</w:t>
+				</w:r>
+			</w:p>
+						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>6、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>while、do…while、for循环语句都可以进行嵌套，并且它们之间也可以互相嵌套</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t></w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>（</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t></w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>）</w:t>
+				</w:r>
+			</w:p>
+						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>7、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>构造方法是类的一个特殊成员，它会在类实例化对象时被自动调用。</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t></w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>（</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t></w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>）</w:t>
+				</w:r>
+			</w:p>
+						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>8、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>SequenceInputStream类用于将多个输入流对象串联成一个输入流</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t></w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>（</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t></w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>）</w:t>
+				</w:r>
+			</w:p>
+						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>9、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>抽象方法必须定义在抽象类中，所以抽象类中的方法都是抽象方法</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t></w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>（</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t></w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>）</w:t>
+				</w:r>
+			</w:p>
+						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>10、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>Java语言具体跨平台的特性</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t></w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>（</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t></w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>）</w:t>
+				</w:r>
+			</w:p>
+						 			<w:tbl>
+				<w:tblPr>
+					<w:tblW w:w="0" w:type="auto" />
+					<w:tblInd w:w="3" w:type="dxa" />
+					<w:tblBorders>
+						<w:top w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+						<w:left w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+						<w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+						<w:right w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+						<w:insideH w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+						<w:insideV w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" />
+					</w:tblBorders>
+					<w:tblLayout w:type="Fixed" />
+				</w:tblPr>
+				<w:tblGrid>
+					<w:gridCol w:w="735" />
+					<w:gridCol w:w="735" />
+				</w:tblGrid>
+				<w:tr wsp:rsidR="00B5184E" wsp:rsidTr="00C81310">
+					<w:tc>
+						<w:tcPr>
+							<w:tcW w:w="735" w:type="dxa" />
+						</w:tcPr>
+						<w:p wsp:rsidR="00B5184E" wsp:rsidRDefault="00B5184E" wsp:rsidP="00C81310">
+							<w:pPr>
+								<w:pStyle w:val="a5" />
+								<w:spacing w:line="60" w:line-rule="auto" />
+								<w:rPr>
+									<w:rFonts w:hint="fareast" />
+									<w:sz w:val="18" />
+								</w:rPr>
+							</w:pPr>
+							<w:r>
+								<w:rPr>
+									<w:rFonts w:hint="fareast" />
+									<w:sz w:val="18" />
+								</w:rPr>
+								<w:t>得分</w:t>
+							</w:r>
+						</w:p>
+					</w:tc>
+					<w:tc>
+						<w:tcPr>
+							<w:tcW w:w="735" w:type="dxa" />
+						</w:tcPr>
+						<w:p wsp:rsidR="00B5184E" wsp:rsidRDefault="00B5184E" wsp:rsidP="00C81310">
+							<w:pPr>
+								<w:pStyle w:val="a5" />
+								<w:spacing w:line="60" w:line-rule="auto" />
+								<w:rPr>
+									<w:rFonts w:hint="fareast" />
+									<w:sz w:val="18" />
+								</w:rPr>
+							</w:pPr>
+						</w:p>
+					</w:tc>
+				</w:tr>
+			</w:tbl>
+			<w:p wsp:rsidR="00B5184E" wsp:rsidRDefault="00B5184E" wsp:rsidP="00B5184E">
+				<w:pPr>
+					<w:adjustRightInd w:val="off" />
+					<w:snapToGrid w:val="off" />
+					<w:spacing w:line="240" w:line-rule="at-least" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+			</w:p>
+			<w:p wsp:rsidR="00B5184E" wsp:rsidRDefault="00B5184E" wsp:rsidP="00B5184E">
+				<w:pPr>
+					<w:adjustRightInd w:val="off" />
+					<w:snapToGrid w:val="off" />
+					<w:spacing w:line="240" w:line-rule="at-least" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<wx:font wx:val="宋体" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>三、填空题（每题</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>2</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<wx:font wx:val="宋体" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>分，共计</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>30</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<wx:font wx:val="宋体" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>分）</w:t>
+				</w:r>
+			</w:p>
+						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>1、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>方法重载的条件是：方法名相同，________不相同</w:t>
+				</w:r>
+			</w:p>
+						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>2、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>java中，方法上如果可能抛出多个异常，多个异常可以使用________（中文填写）隔开</w:t>
+				</w:r>
+			</w:p>
+						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>3、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>在循环语句中，________用于终止本次循环，执行下一次循环</w:t>
+				</w:r>
+			</w:p>
+						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>4、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>InputStream类中专门用于读取文件中数据的子类是________</w:t>
+				</w:r>
+			</w:p>
+						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>5、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>类与对象的关系中，________用于描述多个对象的共同特征，它是对象的模板。________用于描述现实中的个体，<w:br/>它是类的实例。</w:t>
+				</w:r>
+			</w:p>
+						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>6、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>所谓类的封装是指在定义一个类时，将类中的属性私有化，即使用________关键字来修饰。</w:t>
+				</w:r>
+			</w:p>
+						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>7、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>System.out是________类的对象，称为标准输出流，调用System类的________方法可以实现标准输出流的重定向。</w:t>
+				</w:r>
+			</w:p>
+						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>8、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>如果在某一个方法中定义的局部变量与成员变量同名时，在该方法中通过变量名访问到的是________。</w:t>
+				</w:r>
+			</w:p>
+						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>9、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>在Java语言中，同步方法需要用到关键字________，对于同步方法而言无需指定同步锁，它的同步锁是方法所在的________，也就是________(关键字)<w:br/><w:br/></w:t>
+				</w:r>
+			</w:p>
+						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>10、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>________环境变量用来保存保存Java虚拟机要运行的“.class”文件路径</w:t>
+				</w:r>
+			</w:p>
+						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>11、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>要将某个线程设置为后台线程，需要调用该线程的________方法，该方法必须在________方法之前调用。</w:t>
+				</w:r>
+			</w:p>
+						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>12、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>Java的IO包中可以跟踪行号的输入流是________。</w:t>
+				</w:r>
+			</w:p>
+						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>13、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>公共JRE是Java程序的________。</w:t>
+				</w:r>
+			</w:p>
+						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>14、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>如果使用SequenceInputStream对象合并两个以上的输入流对象，则在构造SequenceInputStream对象时，需要传入________对象</w:t>
+				</w:r>
+			</w:p>
+						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>15、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>在Java语言中，要想是将一个已编译的类打包成jar文件，可以使用的命令是________，要想在命令行窗口运行jar文件，可以使用的命令是________</w:t>
+				</w:r>
+			</w:p>
+									<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+					</w:rPr>
+				</w:pPr>
+			</w:p>
+			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+					</w:rPr>
+				</w:pPr>
+			</w:p>
+			<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+					</w:rPr>
+				</w:pPr>
+			</w:p>
+			<w:p wsp:rsidR="00016828" wsp:rsidRDefault="00016828" />
+			<w:p wsp:rsidR="00E14958" wsp:rsidRDefault="00E14958">
+				<w:r>
+					<w:br w:type="text-wrapping" w:clear="all" />
+				</w:r>
+			</w:p>
+			<w:p wsp:rsidR="00016828" wsp:rsidRDefault="00E14958">
+				<w:pPr>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:br w:type="page" />
+				</w:r>
+			</w:p>
+               <w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>答案</w:t>
+				</w:r>
+			</w:p>			
+						<w:p wsp:rsidR="00B5184E" wsp:rsidRDefault="00B5184E" wsp:rsidP="00B5184E">
+				<w:pPr>
+					<w:adjustRightInd w:val="off" />
+					<w:snapToGrid w:val="off" />
+					<w:spacing w:line="240" w:line-rule="at-least" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<wx:font wx:val="宋体" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>一、单选题（每题</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>2</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<wx:font wx:val="宋体" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>分，共计</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>50</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<wx:font wx:val="宋体" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>分）</w:t>
+				</w:r>
+			</w:p>
+			               <w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>1、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t> C </w:t>
+				</w:r>
+			</w:p>
+			               <w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>2、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t> B </w:t>
+				</w:r>
+			</w:p>
+			               <w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>3、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t> C </w:t>
+				</w:r>
+			</w:p>
+			               <w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>4、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t> C </w:t>
+				</w:r>
+			</w:p>
+			               <w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>5、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t> B </w:t>
+				</w:r>
+			</w:p>
+			               <w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>6、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t> C </w:t>
+				</w:r>
+			</w:p>
+			               <w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>7、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t> D </w:t>
+				</w:r>
+			</w:p>
+			               <w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>8、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t> B </w:t>
+				</w:r>
+			</w:p>
+			               <w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>9、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t> A </w:t>
+				</w:r>
+			</w:p>
+			               <w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>10、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t> D </w:t>
+				</w:r>
+			</w:p>
+			               <w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>11、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t> D </w:t>
+				</w:r>
+			</w:p>
+			               <w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>12、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t> D </w:t>
+				</w:r>
+			</w:p>
+			               <w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>13、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t> A </w:t>
+				</w:r>
+			</w:p>
+			               <w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>14、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t> C </w:t>
+				</w:r>
+			</w:p>
+			               <w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>15、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t> A </w:t>
+				</w:r>
+			</w:p>
+			               <w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>16、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t> D </w:t>
+				</w:r>
+			</w:p>
+			               <w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>17、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t> C </w:t>
+				</w:r>
+			</w:p>
+			               <w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>18、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t> D </w:t>
+				</w:r>
+			</w:p>
+			               <w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>19、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t> A </w:t>
+				</w:r>
+			</w:p>
+			               <w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>20、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t> C </w:t>
+				</w:r>
+			</w:p>
+			               <w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>21、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t> A </w:t>
+				</w:r>
+			</w:p>
+			               <w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>22、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t> C </w:t>
+				</w:r>
+			</w:p>
+			               <w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>23、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t> D </w:t>
+				</w:r>
+			</w:p>
+			               <w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>24、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t> C </w:t>
+				</w:r>
+			</w:p>
+			               <w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>25、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t> B </w:t>
+				</w:r>
+			</w:p>
+												<w:p wsp:rsidR="00B5184E" wsp:rsidRDefault="00B5184E" wsp:rsidP="00B5184E">
+				<w:pPr>
+					<w:adjustRightInd w:val="off" />
+					<w:snapToGrid w:val="off" />
+					<w:spacing w:line="240" w:line-rule="at-least" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<wx:font wx:val="宋体" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>二、判断题（每题</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>2</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<wx:font wx:val="宋体" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>分，共计</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>20</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<wx:font wx:val="宋体" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>分）</w:t>
+				</w:r>
+			</w:p>
+			               <w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>1、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t> false </w:t>
+				</w:r>
+			</w:p>
+			               <w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>2、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t> true </w:t>
+				</w:r>
+			</w:p>
+			               <w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>3、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t> false </w:t>
+				</w:r>
+			</w:p>
+			               <w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>4、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t> true </w:t>
+				</w:r>
+			</w:p>
+			               <w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>5、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t> true </w:t>
+				</w:r>
+			</w:p>
+			               <w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>6、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t> true </w:t>
+				</w:r>
+			</w:p>
+			               <w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>7、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t> true </w:t>
+				</w:r>
+			</w:p>
+			               <w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>8、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t> true </w:t>
+				</w:r>
+			</w:p>
+			               <w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>9、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t> false </w:t>
+				</w:r>
+			</w:p>
+			               <w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>10、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t> true </w:t>
+				</w:r>
+			</w:p>
+									 			<w:p wsp:rsidR="00B5184E" wsp:rsidRDefault="00B5184E" wsp:rsidP="00B5184E">
+				<w:pPr>
+					<w:adjustRightInd w:val="off" />
+					<w:snapToGrid w:val="off" />
+					<w:spacing w:line="240" w:line-rule="at-least" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<wx:font wx:val="宋体" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>三、填空题（每题</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>2</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<wx:font wx:val="宋体" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>分，共计</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>30</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<wx:font wx:val="宋体" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>分）</w:t>
+				</w:r>
+			</w:p>
+			               <w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>1、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t> (1)参数列表 </w:t>
+				</w:r>
+			</w:p>
+			               <w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>2、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t> (1)逗号 </w:t>
+				</w:r>
+			</w:p>
+			               <w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>3、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t> (1)contine </w:t>
+				</w:r>
+			</w:p>
+			               <w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>4、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t> (1)FileInputStream </w:t>
+				</w:r>
+			</w:p>
+			               <w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>5、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t> (1)类  (2)对象 </w:t>
+				</w:r>
+			</w:p>
+			               <w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>6、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t> (1)private </w:t>
+				</w:r>
+			</w:p>
+			               <w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>7、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t> (1)PrintStream  (2)setOut(PrintStream out) </w:t>
+				</w:r>
+			</w:p>
+			               <w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>8、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t> (1)局部变量 </w:t>
+				</w:r>
+			</w:p>
+			               <w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>9、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t> (1)synchronized  (2)对象  (3)this </w:t>
+				</w:r>
+			</w:p>
+			               <w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>10、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t> (1)classpath </w:t>
+				</w:r>
+			</w:p>
+			               <w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>11、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t> (1)setDaemon(true)  (2)start() </w:t>
+				</w:r>
+			</w:p>
+			               <w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>12、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t> (1)LineNumberReader </w:t>
+				</w:r>
+			</w:p>
+			               <w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>13、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t> (1)运行环境 </w:t>
+				</w:r>
+			</w:p>
+			               <w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>14、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t> (1)Enumeraion </w:t>
+				</w:r>
+			</w:p>
+			               <w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+				<w:pPr>
+					<w:pStyle w:val="a5" />
+					<w:spacing w:line="60" w:line-rule="auto" />
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+				</w:pPr>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t>15、</w:t>
+				</w:r>
+				<w:r>
+					<w:rPr>
+						<w:rFonts w:hint="fareast" />
+						<w:sz w:val="18" />
+					</w:rPr>
+					<w:t> (1)jar –cvf  (2)java –jar </w:t>
+				</w:r>
+			</w:p>
+									<w:sectPr wsp:rsidR="00016828">
+				<w:hdr w:type="even">
+					<wx:pBdrGroup>
+						<wx:borders>
+							<wx:bottom wx:val="solid" wx:bdrwidth="15" wx:space="1" wx:color="auto" />
+						</wx:borders>
+						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+							<w:pPr>
+								<w:pStyle w:val="a4" />
+							</w:pPr>
+						</w:p>
+					</wx:pBdrGroup>
+				</w:hdr>
+				<w:hdr w:type="odd">
+					<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+						<w:pPr>
+							<w:pStyle w:val="a4" />
+							<w:pBdr>
+								<w:bottom w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" />
+							</w:pBdr>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:sz w:val="20" />
+								<w:lang w:val="EN-US" w:fareast="ZH-CN" />
+							</w:rPr>
+							<w:pict>
+								<v:shapetype id="_x0000_t202" coordsize="21600,21600" o:spt="202" path="m,l,21600r21600,l21600,xe">
+									<v:stroke joinstyle="miter" />
+									<v:path gradientshapeok="t" o:connecttype="rect" />
+								</v:shapetype>
+								<v:shape id="Text Box 1" o:spid="_x0000_s2049" type="#_x0000_t202" style="position:absolute;left:0;text-align:left;margin-left:71.95pt;margin-top:129pt;width:1in;height:610.6pt;z-index:1;mso-position-horizontal-relative:page;mso-position-vertical-relative:page" filled="f" stroked="f">
+									<o:lock v:ext="edit" aspectratio="t" />
+									<v:textbox style="layout-flow:vertical;mso-layout-flow-alt:bottom-to-top">
+										<w:txbxContent>
+											<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+												<w:pPr>
+													<w:jc w:val="left" />
+													<w:rPr>
+														<w:sz w:val="24" />
+													</w:rPr>
+												</w:pPr>
+												<w:r>
+													<w:rPr>
+														<w:rFonts w:hint="fareast" />
+														<wx:font wx:val="宋体" />
+														<w:sz w:val="24" />
+													</w:rPr>
+													<w:t>姓名：</w:t>
+												</w:r>
+												<w:r>
+													<w:rPr>
+														<w:rFonts w:hint="fareast" />
+														<w:sz w:val="24" />
+														<w:u w:val="single" />
+													</w:rPr>
+													<w:t>__________________</w:t>
+												</w:r>
+												<w:r>
+													<w:rPr>
+														<w:rFonts w:hint="fareast" />
+														<wx:font wx:val="宋体" />
+														<w:sz w:val="24" />
+													</w:rPr>
+													<w:t>年级专业：</w:t>
+												</w:r>
+												<w:r>
+													<w:rPr>
+														<w:rFonts w:hint="fareast" />
+														<w:sz w:val="24" />
+														<w:u w:val="single" />
+													</w:rPr>
+													<w:t>__________________</w:t>
+												</w:r>
+												<w:r>
+													<w:rPr>
+														<w:rFonts w:hint="fareast" />
+														<w:sz w:val="24" />
+													</w:rPr>
+													<w:t> </w:t>
+												</w:r>
+												<w:r>
+													<w:rPr>
+														<w:rFonts w:hint="fareast" />
+														<wx:font wx:val="宋体" />
+														<w:sz w:val="24" />
+													</w:rPr>
+													<w:t>学号：</w:t>
+												</w:r>
+												<w:r>
+													<w:rPr>
+														<w:rFonts w:hint="fareast" />
+														<w:sz w:val="24" />
+														<w:u w:val="single" />
+													</w:rPr>
+													<w:t>__________________</w:t>
+												</w:r>
+											</w:p>
+											<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+												<w:pPr>
+													<w:spacing w:before-lines="30" w:after-lines="30" />
+													<w:jc w:val="center" />
+													<w:rPr>
+														<w:rFonts w:hint="fareast" />
+														<w:sz w:val="24" />
+													</w:rPr>
+												</w:pPr>
+												<w:r>
+													<w:rPr>
+														<w:rFonts w:hint="fareast" />
+														<wx:font wx:val="宋体" />
+														<w:sz w:val="24" />
+													</w:rPr>
+													<w:t>凡年级专业、姓名、学</w:t>
+												</w:r>
+												<w:r>
+													<w:rPr>
+														<w:rFonts w:hint="fareast" />
+														<wx:font wx:val="宋体" />
+														<w:sz w:val="24" />
+													</w:rPr>
+													<w:t>号错写、漏写或字迹不清者，成绩按零分记。</w:t>
+												</w:r>
+											</w:p>
+											<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+												<w:pPr>
+													<w:rPr>
+														<w:rFonts w:hint="fareast" />
+														<w:sz w:val="24" />
+													</w:rPr>
+												</w:pPr>
+												<w:r>
+													<w:rPr>
+														<w:rFonts w:hint="fareast" />
+														<wx:font wx:val="宋体" />
+														<w:sz w:val="24" />
+													</w:rPr>
+													<w:t>…………………………密………………………………封………………………………线…………………………</w:t>
+												</w:r>
+											</w:p>
+										</w:txbxContent>
+									</v:textbox>
+									<w10:wrap anchorx="page" anchory="page" />
+								</v:shape>
+							</w:pict>
+						</w:r>
+						<w:r>
+							<w:rPr>
+								<w:sz w:val="20" />
+								<w:lang w:val="EN-US" w:fareast="ZH-CN" />
+							</w:rPr>
+							<w:pict>
+								<v:shape id="Text Box 2" o:spid="_x0000_s2050" type="#_x0000_t202" style="position:absolute;left:0;text-align:left;margin-left:-5.4pt;margin-top:8.5pt;width:903pt;height:15.6pt;z-index:2" stroked="f">
+									<v:textbox>
+										<w:txbxContent>
+											<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828" />
+										</w:txbxContent>
+									</v:textbox>
+								</v:shape>
+							</w:pict>
+						</w:r>
+					</w:p>
+				</w:hdr>
+				<w:ftr w:type="even">
+					<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+						<w:pPr>
+							<w:pStyle w:val="a6" />
+						</w:pPr>
+					</w:p>
+				</w:ftr>
+				<w:ftr w:type="odd">
+					<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+						<w:pPr>
+							<w:pStyle w:val="a6" />
+							<w:jc w:val="center" />
+							<w:rPr>
+								<w:rFonts w:hint="fareast" />
+							</w:rPr>
+						</w:pPr>
+					</w:p>
+					<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+						<w:pPr>
+							<w:pStyle w:val="a6" />
+							<w:jc w:val="center" />
+							<w:rPr>
+								<w:rFonts w:hint="fareast" />
+							</w:rPr>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:rFonts w:hint="fareast" />
+								<wx:font wx:val="宋体" />
+							</w:rPr>
+							<w:t>《期末测试（难）》试卷</w:t>
+						</w:r>
+						<w:r>
+							<w:rPr>
+								<w:rFonts w:hint="fareast" />
+							</w:rPr>
+							<w:t></w:t>
+						</w:r>
+						<w:r>
+							<w:rPr>
+								<w:rFonts w:hint="fareast" />
+								<wx:font wx:val="宋体" />
+							</w:rPr>
+							<w:t>第</w:t>
+						</w:r>
+						<w:r>
+							<w:fldChar w:fldCharType="begin" />
+						</w:r>
+						<w:r>
+							<w:rPr>
+								<w:rStyle w:val="a3" />
+							</w:rPr>
+							<w:instrText>PAGE</w:instrText>
+						</w:r>
+						<w:r>
+							<w:fldChar w:fldCharType="separate" />
+						</w:r>
+						<w:r wsp:rsidR="0018774E">
+							<w:rPr>
+								<w:rStyle w:val="a3" />
+								<w:noProof />
+							</w:rPr>
+							<w:t>1</w:t>
+						</w:r>
+						<w:r>
+							<w:fldChar w:fldCharType="end" />
+						</w:r>
+						<w:r>
+							<w:rPr>
+								<w:rFonts w:hint="fareast" />
+								<wx:font wx:val="宋体" />
+							</w:rPr>
+							<w:t>页</w:t>
+						</w:r>
+					</w:p>
+				</w:ftr>
+				<w:hdr w:type="first">
+					<wx:pBdrGroup>
+						<wx:borders>
+							<wx:bottom wx:val="solid" wx:bdrwidth="15" wx:space="1" wx:color="auto" />
+						</wx:borders>
+						<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+							<w:pPr>
+								<w:pStyle w:val="a4" />
+							</w:pPr>
+						</w:p>
+					</wx:pBdrGroup>
+				</w:hdr>
+				<w:ftr w:type="first">
+					<w:p wsp:rsidR="00000000" wsp:rsidRDefault="00016828">
+						<w:pPr>
+							<w:pStyle w:val="a6" />
+						</w:pPr>
+					</w:p>
+				</w:ftr>
+				<w:pgSz w:w="23814" w:h="16840" w:orient="landscape" />
+				<w:pgMar w:top="2268" w:right="2268" w:bottom="1985" w:left="2552" w:header="0" w:footer="1418" w:gutter="567" />
+				<w:cols w:num="2" w:sep="on" w:space="1681" />
+				<w:docGrid w:type="lines" w:line-pitch="312" />
+			</w:sectPr>
+		</wx:sect>
+	</w:body>
+</w:wordDocument>
