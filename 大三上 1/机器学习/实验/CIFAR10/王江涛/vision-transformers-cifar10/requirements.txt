@@ -1,0 +1,6 @@
+vit-pytorch
+einops
+odach
+wandb
+pandas
+matplotlib
