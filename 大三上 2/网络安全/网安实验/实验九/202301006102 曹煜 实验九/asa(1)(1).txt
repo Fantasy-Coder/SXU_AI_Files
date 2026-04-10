@@ -1,0 +1,166 @@
+
+ciscoasa# show running
+: Saved
+
+:
+: Serial Number: JAD214107ZB
+: Hardware:   ASA5506, 4096 MB RAM, CPU Atom C2000 series 1250 MHz, 1 CPU (4 cores)
+:
+ASA Version 9.8(1)
+!
+hostname ciscoasa
+enable password $sha512$5000$GEqgNkJqvKuxO4FSntYPuA==$p1D9EJlRvGfEbpei7jUlgg== pbkdf2
+names
+
+!
+interface GigabitEthernet1/1
+ nameif inside
+ security-level 100
+ ip address 192.168.2.254 255.255.255.0
+!
+interface GigabitEthernet1/2
+ nameif outside
+ security-level 0
+ ip address 202.1.1.254 255.255.255.0
+!
+interface GigabitEthernet1/3
+ nameif dmz
+ security-level 50
+ ip address 192.168.1.254 255.255.255.0
+!
+interface GigabitEthernet1/4
+ bridge-group 1
+ nameif inside_3
+ security-level 100
+!
+interface GigabitEthernet1/5
+ bridge-group 1
+ nameif inside_4
+ security-level 100
+!
+interface GigabitEthernet1/6
+ bridge-group 1
+ nameif inside_5
+ security-level 100
+!
+interface GigabitEthernet1/7
+ bridge-group 1
+ nameif inside_6
+ security-level 100
+!
+interface GigabitEthernet1/8
+ bridge-group 1
+ nameif inside_7
+ security-level 100
+!
+interface Management1/1
+ management-only
+ no nameif
+ no security-level
+ no ip address
+!
+interface BVI1
+ no nameif
+ security-level 100
+ no ip address
+!
+ftp mode passive
+same-security-traffic permit inter-interface
+object network obj_any1
+ subnet 0.0.0.0 0.0.0.0
+object network obj_any2
+ subnet 0.0.0.0 0.0.0.0
+object network obj_any3
+ subnet 0.0.0.0 0.0.0.0
+object network obj_any4
+ subnet 0.0.0.0 0.0.0.0
+object network obj_any5
+ subnet 0.0.0.0 0.0.0.0
+object network obj_any6
+ subnet 0.0.0.0 0.0.0.0
+object network obj_any7
+ subnet 0.0.0.0 0.0.0.0
+object network inside
+ subnet 192.168.2.0 255.255.255.0
+object network dmz
+ subnet 192.168.1.0 255.255.255.0
+access-list 102 extended permit ip any any
+access-list dmz extended permit icmp any any echo-reply
+access-list dmz extended permit icmp any 202.1.0.0 255.255.0.0
+pager lines 24
+logging asdm informational
+mtu inside 1500
+mtu outside 1500
+mtu dmz 1500
+mtu inside_3 1500
+mtu inside_4 1500
+mtu inside_5 1500
+mtu inside_6 1500
+mtu inside_7 1500
+icmp unreachable rate-limit 1 burst-size 1
+no asdm history enable
+arp timeout 14400
+no arp permit-nonconnected
+arp rate-limit 16384
+!
+object network inside
+ nat (inside,outside) static 202.1.1.10
+object network dmz
+ nat (dmz,outside) static 202.1.1.30
+access-group 102 out interface inside
+access-group 102 in interface outside
+access-group dmz in interface dmz
+access-group 102 out interface dmz
+route outside 0.0.0.0 0.0.0.0 202.1.1.2 1
+route inside 192.168.3.0 255.255.255.0 192.168.2.1 1
+route outside 202.1.2.0 255.255.255.0 202.1.1.1 1
+timeout xlate 3:00:00
+timeout pat-xlate 0:00:30
+timeout conn 1:00:00 half-closed 0:10:00 udp 0:02:00 sctp 0:02:00 icmp 0:00:02
+timeout sunrpc 0:10:00 h323 0:05:00 h225 1:00:00 mgcp 0:05:00 mgcp-pat 0:05:00
+timeout sip 0:30:00 sip_media 0:02:00 sip-invite 0:03:00 sip-disconnect 0:02:00
+timeout sip-provisional-media 0:02:00 uauth 0:05:00 absolute
+timeout tcp-proxy-reassembly 0:01:00
+timeout floating-conn 0:00:00
+timeout conn-holddown 0:00:15
+timeout igp stale-route 0:01:10
+user-identity default-domain LOCAL
+aaa authentication login-history
+http server enable
+http 192.168.1.0 255.255.255.0 inside_3
+http 192.168.1.0 255.255.255.0 inside_4
+http 192.168.1.0 255.255.255.0 inside_5
+http 192.168.1.0 255.255.255.0 inside_6
+http 192.168.1.0 255.255.255.0 inside_7
+no snmp-server location
+no snmp-server contact
+service sw-reset-button
+crypto ipsec security-association pmtu-aging infinite
+crypto ca trustpool policy
+telnet timeout 5
+ssh stricthostkeycheck
+ssh timeout 5
+ssh key-exchange group dh-group1-sha1
+console timeout 0
+
+dhcpd auto_config inside
+!
+threat-detection basic-threat
+threat-detection statistics access-list
+no threat-detection statistics tcp-intercept
+dynamic-access-policy-record DfltAccessPolicy
+!
+class-map inspection_default
+!
+!
+policy-map type inspect dns preset_dns_map
+ parameters
+  message-length maximum client auto
+  message-length maximum 512
+  no tcp-inspection
+policy-map global_policy
+!
+prompt hostname context
+call-home reporting anonymous prompt 2
+Cryptochecksum:a3d712e2f9268ffaa700d998003cd9e8
+: end

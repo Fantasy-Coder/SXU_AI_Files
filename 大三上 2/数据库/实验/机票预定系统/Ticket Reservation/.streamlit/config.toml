@@ -1,0 +1,10 @@
+[server]
+headless = true
+port = 8502
+enableCORS = false
+
+[browser]
+serverAddress = "localhost"
+
+# Prevent Streamlit from trying to open a desktop browser via gio/xdg
+# If you still want Streamlit to open a browser, remove headless=true or set a browser handler in your OS.
